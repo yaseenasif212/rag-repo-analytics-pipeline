@@ -1,0 +1,5 @@
+[
+  {"repo":"langchain-ai/langchain","sha":"9f3a1b2c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a","commit":{"author":{"name":"Contributor Dev","email":"contributor@example.com","date":"2026-07-14T10:22:31Z"},"message":"fix: correct retriever chunk overlap default value"},"stats":{"additions":14,"deletions":3}},
+  {"repo":"chroma-core/chroma","sha":"a7e5c3d1b9f8a2e6d4c0b1a3e5f7d9c2b4a6e8f0","commit":{"author":{"name":"Nate Prewitt","email":"nate@example.com","date":"2026-07-15T08:05:12Z"},"message":"perf: optimize HNSW index rebuild on bulk upsert"},"stats":{"additions":52,"deletions":11}},
+  {"repo":"run-llama/llama_index","sha":"c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3","commit":{"author":{"name":"Jerry Liu","email":"jerry@example.com","date":"2026-07-16T14:41:09Z"},"message":"feat: add async batching support for document loaders"},"stats":{"additions":88,"deletions":6}}
+]
