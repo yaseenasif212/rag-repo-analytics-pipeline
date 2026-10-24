@@ -2,8 +2,7 @@
 
 PySpark pipeline on Databricks that pulls GitHub repository data for five RAG-stack projects and builds the **Bronze** and **Silver** layers of a Lakehouse.
 
-**Author:** M. Yaseen (24L-2515), BDS-5B
-**Course:** DS3004 Data Warehousing and Business Intelligence, Fall 2026
+**Author:** M. Yaseen (24L-2515), Taimur Amir (24L-2518)
 
 **Repos tracked:** langchain-ai/langchain, run-llama/llama_index, chroma-core/chroma, qdrant/qdrant, deepset-ai/haystack
 
