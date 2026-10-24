@@ -279,11 +279,11 @@ Note: values passed through the runner are saved in Databricks run history. Run 
 
 ## 7. Data volume
 
-| Table | Unique rows | Unique raw JSON (MB) |
+| Table |  Unique raw JSON (MB) |
 |---|---|---|
-| bronze_commits | [fill in] | [fill in] |
-| bronze_issues | [fill in] | [fill in] |
-| **Total** | | **[fill in] MB** |
+| bronze_commits | 102mb | 
+| bronze_issues | 226.9mb 
+| **Total** | | 328mb |
 
 Window pulled: [start date] to [end date], all 5 repos.
 
