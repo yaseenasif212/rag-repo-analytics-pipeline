@@ -2,8 +2,8 @@
 
 End-to-end PySpark pipeline on Databricks. It pulls GitHub activity for five RAG-stack repositories, builds **Bronze** and **Silver** Delta tables, models a **Gold** star schema, and serves it to a **Power BI** dashboard.
 
-**Author:** M. Yaseen (24L-2515), BDS-5B
-**Course:** DS3004 Data Warehousing and Business Intelligence, Fall 2026
+**Author:** M. Yaseen (24L-2515) ,Taimur Amir (24L-2518), BDS-5B
+**Course:** DAV, Fall 2026
 
 **Repos tracked:** langchain-ai/langchain, run-llama/llama_index, chroma-core/chroma, qdrant/qdrant, deepset-ai/haystack
 
